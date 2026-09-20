@@ -65,10 +65,8 @@ Event-Manager-MERN/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/10pavi/Event-Manager-MERN-.git
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository's HTTPS URL.
 
 ### 2. Navigate to the project
 
